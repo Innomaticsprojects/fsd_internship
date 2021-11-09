@@ -11,32 +11,32 @@ AirBnB is an online platform with assists people with lodging during holidays an
 
 Therefore if you want a hostel accomodation, are looking for a home-stay or want to opt for a traditional hotel room, AirBNB app will give you all the choices to optimise your holiday.
 
-The backend requirements:
+#### The backend requirements:
 
-Register
+#### Register
 Users should be able to register using name, email, password. There should be an option to confirm the password.
 If the user already exists a warning should be prompted by the app.
 
-Login
+#### Login
 Users should be able to log in by using their registered email id and password.
 On feeding an incorrect email or password, a warning should be displayed.
 
-Home
+#### Home
 Create a home page with a search bar, arrival date, departure date and the number of guests.
 Under the search bar, there is a post button which will redirect to the Post page when clicked.
 
-Post
+#### Post
 If a user wants to list their property on your app, they have to provide details on the type of property, a brief description of it, available dates, property address & images.
 After post is made, the user will be directed to the Home Page.
 
-Backend to also include (Node JS, Express JS, MongoDB)
+### Backend to also include (Node JS, Express JS, MongoDB)
 
 Establishing a connection to the database (MongoDB).
 Including password hashing.
 Storing of user details in the database while registering.
 Storing of details posted by the user in the database. 
 
-How to submit your work?
+### How to submit your work?
 
 In order to submit your work, follow the instructions given below:
 
