@@ -29,9 +29,9 @@ Therefore if you want a hostel accomodation, are looking for a home-stay or want
 2. After post is made, the user will be directed to the Home Page.
 ### Backend to also include (Node JS, Express JS, MongoDB)
 1. Establishing a connection to the database (MongoDB).
-2 .Including password hashing.
-3 .Storing of user details in the database while registering.
-4 .Storing of details posted by the user in the database. 
+2. Including password hashing.
+3. Storing of user details in the database while registering.
+4. Storing of details posted by the user in the database. 
 ### How to submit your work?
 In order to submit your work, follow the instructions given below:
 1. Only students who complete both the rounds will fill the submission form
