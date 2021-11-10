@@ -5,13 +5,17 @@ Challenge starts on ***November 10, 2021 at 01:30 PM*** 🕜
 
 Challenge ends on ***November 10, 2021 at 04:30 PM*** 🕟
 
-### Task - Create the backend according the the requirements given below. (Kindly clone the frontend(UI) of the application from [this link](https://innomatics-research-labs.github.io/fsd_internship))
+### Task - Create the backend according the the requirements given below. 
 
 **About the app** - AirBnB is an online platform with assists people with lodging during holidays and vacations. This site is unique because it moves beyond conventional hotel room booking apps and gives customers a choice to decide on the type of space that they want to rent during the holidays.
 
 Therefore if you want a hostel accomodation, are looking for a home-stay or want to opt for a traditional hotel room, AirBNB app will give you all the choices to optimise your holiday.
-#### Given frontend code [here](https://innomatics-research-labs.github.io/fsd_internship)
-#### The backend requirements: (You are supposed to implement below mentioned requirements)
+
+### Follow the below mentioned steps for smooth execution:
+#### Step - 1: Clone the frontend code from [this link](https://innomatics-research-labs.github.io/fsd_internship)
+#### Step - 2: Implement below mentioned backend requirements.
+
+#### The backend requirements:
 
 #### Register
 1. Users should be able to register using name, email, password. There should be an option to confirm the password.
