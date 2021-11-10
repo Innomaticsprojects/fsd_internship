@@ -40,4 +40,5 @@ In order to submit your work, follow the instructions given below:
 4. Click here to fill the form - Submission Form
 5. Only one submission is allowed per user
 6. Plagiarism of any sort will result in disqualification from this challenge and other future challenges with Innomatics Research Labs
-7 .Write a post on Linkedin about the experience. Don’t forget to tag Innomatics Research Labs and use the hashtag mentioned below: #innominions    #innomatics_internship (This is optional)
+7. **Write a post on Linkedin about the experience. Don’t forget to tag Innomatics Research Labs and use the hashtag mentioned below: #innominions    #innomatics_internship (This is optional)**
+ ### **NOTE: You are eligible for the pizza party ONLY if you comment here with an emoji**
