@@ -38,7 +38,7 @@ Therefore if you want a hostel accomodation, are looking for a home-stay or want
 In order to submit your work, follow the instructions given below:
 1. Only students who complete both the rounds will fill the submission form
 2. **After completion of round 2, push the code on your GitHub.**
-3. **Share the GitHub link on the submission form** [here](https://docs.google.com/forms/d/e/1FAIpQLSdexWw8PGcTZEtLJGZfiB8QHSU2WVDu1EbX8QQjQA1u7AaP3Q/viewform?usp=sf_link)
+3. **Share your GitHub repo link on the submission form** [here](https://docs.google.com/forms/d/e/1FAIpQLSdexWw8PGcTZEtLJGZfiB8QHSU2WVDu1EbX8QQjQA1u7AaP3Q/viewform?usp=sf_link)
 4. Click here to fill the form - Submission Form
 5. Only one submission is allowed per user
 6. Plagiarism of any sort will result in disqualification from this challenge and other future challenges with Innomatics Research Labs
