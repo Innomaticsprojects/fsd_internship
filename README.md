@@ -7,7 +7,7 @@ Challenge ends on ***November 10, 2021 at 04:30 PM*** 🕟
 
 ### Clone the AirBnB app by creating its backend and the given UI.
 
-#### Find the UI here [internship task](http://github.com)
+#### Find the UI here [internship task]( https://innomatics-research-labs.github.io/fsd_internship/)
 
 AirBnB is an online platform with assists people with lodging during holidays and vacations. This site is unique because it moves beyond conventional hotel room booking apps and gives customers a choice to decide on the type of space that they want to rent during the holidays.
 
