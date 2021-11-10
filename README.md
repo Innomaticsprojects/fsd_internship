@@ -19,7 +19,7 @@ Therefore if you want a hostel accomodation, are looking for a home-stay or want
 
 #### Register
 1. Users should be able to register using name, email, password. There should be an option to confirm the password.
-2 .If the user already exists a warning should be prompted by the app.
+2. If the user already exists a warning should be prompted by the app.
 #### Login
 1. Users should be able to log in by using their registered email id and password.
 2. On feeding an incorrect email or password, a warning should be displayed.
